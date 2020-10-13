@@ -1,0 +1,121 @@
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #666666; 
+    font-size: 18px;
+    background-color: #f1f1f1;
+    
+}
+a{
+	text-decoration: none;
+	color: blue;
+}
+a:hover{
+	text-decoration: underline;
+}
+a:visited{
+	color: #444;
+}
+
+.headline {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 32px;
+    letter-spacing: -0.84px;
+    margin: 0 15px 15px;
+    text-align: center;
+    color: black;
+    
+}
+.img-heading {
+    
+    left: 0;
+    background-position: absolute;
+    top: 0;
+    width: 100%;
+}
+.autor{
+    margin-top: -100px;
+    text-align: left;
+    background-color: linen;
+    color: #666666;
+    margin: auto;
+    padding: 5px;
+
+}
+.text-img{
+    padding: none;
+    padding-bottom: 2px;
+    border-bottom: 2px #444 solid;
+ 
+    
+    
+}
+.text-img img{
+    width: 732px;
+    height: 420px;
+}
+
+.text-news {
+    color: #444;
+    display: block;
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+.cuote{
+    font-family: ReithSerif,"Times New Roman",serif;
+    font-style: italic;
+    line-height: inherit;
+    font-size: 28px;
+    color: #444;
+    padding-left: 22px;
+    border-left: 5px gold solid;
+}
+.topics{
+    color: #242424;
+    font-size: 12px;
+    letter-spacing: 1px;
+    text-decoration: none;
+    text-align: center;
+}
+.topics a{
+    
+    text-align: center;
+}
+.doc{
+    box-sizing: content-box;
+    border: none;
+    width: 60%;
+    margin: auto;
+    font-family: Arial, Helvetica, sans-serif;
+
+
+}
+.doc h2{
+    color: #333333;
+    text-decoration: none;
+}
+.doc h3{
+    
+    font-style: italic;
+}
+.credit{
+    text-align: center;
+    color: #737373;
+    font-size: 16px;
+}
+.capital-let{
+    font-size: 58px;
+    border: 2px solid;
+    border-color: #ffc857;
+    color: #444;
+    float: left;
+    font-weight: bold;
+    margin: 8px 10px 4px 0;
+}
+.list{
+    padding-left: -5px;
+    font: bold;
+    color: #444;
+}
+
